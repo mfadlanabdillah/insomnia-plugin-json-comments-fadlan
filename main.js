@@ -50,6 +50,7 @@ function stripJsonComments(jsonString) {
   return result;
 }
 
+module.exports.stripJsonComments = stripJsonComments;
 module.exports.requestHooks = [
   async (context) => {
     const request = context.request;

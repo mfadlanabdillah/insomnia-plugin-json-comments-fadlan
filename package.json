@@ -21,5 +21,8 @@
     "unlisted": false
   },
   "main": "main.js",
+  "scripts": {
+    "test": "node --test"
+  },
   "license": "MIT"
 }
