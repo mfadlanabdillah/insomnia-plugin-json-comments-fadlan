@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-json-comments-fadlan",
   "version": "1.2.0",
-  "description": "Mendukung JSON dengan comments (// dan /* */) di Insomnia. Comments akan otomatis di-strip sebelum request dikirim.",
+  "description": "Write JSON with comments (// and /* */) in Insomnia. Comments are automatically stripped before sending requests.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mfadlanabdillah/insomnia-plugin-json-comments-fadlan.git"
@@ -9,13 +9,13 @@
   "insomnia": {
     "name": "json-comments-fadlan",
     "displayName": "JSON Comments Fadlan",
-    "description": "Strip comments dari JSON body sebelum dikirim",
+    "description": "Strip comments from JSON body before sending",
     "images": {
       "icon": "icon.svg",
       "cover": "cover.svg"
     },
     "publisher": {
-      "name": "M Fadlan Abdillah",
+      "name": "Mochamad Fadlan Abdillah",
       "icon": "https://github.com/mfadlanabdillah.png"
     },
     "unlisted": false
