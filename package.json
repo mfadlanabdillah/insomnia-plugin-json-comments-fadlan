@@ -1,0 +1,11 @@
+{
+  "name": "insomnia-plugin-json-comments-fadlan",
+  "version": "1.2.0",
+  "description": "Mendukung JSON dengan comments (// dan /* */) di Insomnia. Comments akan otomatis di-strip sebelum request dikirim.",
+  "insomnia": {
+    "name": "json-comments",
+    "description": "Strip comments dari JSON body sebelum dikirim"
+  },
+  "main": "main.js",
+  "license": "MIT"
+}
