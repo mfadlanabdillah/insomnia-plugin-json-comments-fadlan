@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-json-comments-fadlan",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Write JSON with comments (// and /* */) in Insomnia. Comments are automatically stripped before sending requests.",
   "repository": {
     "type": "git",
