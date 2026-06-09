@@ -8,7 +8,17 @@
   },
   "insomnia": {
     "name": "json-comments-fadlan",
-    "description": "Strip comments dari JSON body sebelum dikirim"
+    "displayName": "JSON Comments Fadlan",
+    "description": "Strip comments dari JSON body sebelum dikirim",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.svg"
+    },
+    "publisher": {
+      "name": "M Fadlan Abdillah",
+      "icon": "https://github.com/mfadlanabdillah.png"
+    },
+    "unlisted": false
   },
   "main": "main.js",
   "license": "MIT"
